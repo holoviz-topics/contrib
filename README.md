@@ -1,2 +1,2 @@
 # contrib
-Notebook, script and wiki contributions from PyViz users
+Notebook, script and wiki contributions from HoloViz users
